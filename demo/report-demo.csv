@@ -1,0 +1,14 @@
+Workflow,Step,Subject,From,Sent,Accepted,Delivered,Opened,Clicked,Replied,Unsubscribed,Complained,Hard bounces,Soft bounces,Rejected,Failed,Open rate %,Click rate %,Reply rate %,Unsubscribe rate %,Complaint rate %,Bounce rate %,Stats source id
+Workflow 1,Welcome email,Welcome from Workflow 1,Clinic hello@clinic.test,1030,5,1010,301,41,7,3,1,15,5,2,1,29.8,4.06,0.69,0.3,0.1,1.94,src-001
+Workflow 1,Follow-up after 3 days,Quick follow-up,Clinic hello@clinic.test,1040,5,1020,302,42,7,3,1,15,5,2,1,29.61,4.12,0.69,0.29,0.1,1.92,src-001
+Workflow 2,Welcome email,Welcome from Workflow 2,Clinic hello@clinic.test,1040,5,1020,302,42,7,3,1,15,5,2,1,29.61,4.12,0.69,0.29,0.1,1.92,src-002
+Workflow 2,Follow-up after 3 days,Quick follow-up,Clinic hello@clinic.test,1050,5,1030,303,43,7,3,1,15,5,2,1,29.42,4.17,0.68,0.29,0.1,1.9,src-002
+Workflow 3,Welcome email,Welcome from Workflow 3,Clinic hello@clinic.test,1050,5,1030,303,43,7,3,1,15,5,2,1,29.42,4.17,0.68,0.29,0.1,1.9,src-003
+Workflow 3,Follow-up after 3 days,Quick follow-up,Clinic hello@clinic.test,1060,5,1040,304,44,7,3,1,15,5,2,1,29.23,4.23,0.67,0.29,0.1,1.89,src-003
+Workflow 4,Welcome email,Welcome from Workflow 4,Clinic hello@clinic.test,1060,5,1040,304,44,7,3,1,15,5,2,1,29.23,4.23,0.67,0.29,0.1,1.89,src-004
+Workflow 4,Follow-up after 3 days,Quick follow-up,Clinic hello@clinic.test,1070,5,1050,305,45,7,3,1,15,5,2,1,29.05,4.29,0.67,0.29,0.1,1.87,src-004
+Workflow 5,Welcome email,Welcome from Workflow 5,Clinic hello@clinic.test,1070,5,1050,305,45,7,3,1,15,5,2,1,29.05,4.29,0.67,0.29,0.1,1.87,src-005
+Workflow 5,Follow-up after 3 days,Quick follow-up,Clinic hello@clinic.test,1080,5,1060,306,46,7,3,1,15,5,2,1,28.87,4.34,0.66,0.28,0.09,1.85,src-005
+Workflow 6,Welcome email,Welcome from Workflow 6,Clinic hello@clinic.test,1080,5,1060,306,46,7,3,1,15,5,2,1,28.87,4.34,0.66,0.28,0.09,1.85,src-006
+Workflow 6,Follow-up after 3 days,Quick follow-up,Clinic hello@clinic.test,1020,5,1000,300,40,7,3,1,15,5,2,1,30.0,4.0,0.7,0.3,0.1,1.96,src-006
+(one-time send),February Newsletter,,,1040,5,1020,302,42,7,3,1,15,5,2,1,29.61,4.12,0.69,0.29,0.1,1.92,ec001
